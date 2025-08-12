@@ -1,71 +1,71 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/wp-content/plugins/wordpress-seo/css/main-sitemap.xsl"?>
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://northbridgemenssoftball.netlify.app/wp-content/plugins/wordpress-seo/css/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>/department/academic-affairs/</loc>
+		<loc>https://northbridgemenssoftball.netlify.app/department/academic-affairs/</loc>
 		<lastmod>2025-07-19T15:43:33+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/department/academics/</loc>
+		<loc>https://northbridgemenssoftball.netlify.app/department/academics/</loc>
 		<lastmod>2025-07-19T15:43:33+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/department/administration/</loc>
+		<loc>https://northbridgemenssoftball.netlify.app/department/administration/</loc>
 		<lastmod>2025-07-19T15:43:33+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/department/development/</loc>
+		<loc>https://northbridgemenssoftball.netlify.app/department/development/</loc>
 		<lastmod>2025-07-19T15:43:33+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/department/external-relations/</loc>
+		<loc>https://northbridgemenssoftball.netlify.app/department/external-relations/</loc>
 		<lastmod>2025-07-19T15:43:33+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/department/facilities/</loc>
+		<loc>https://northbridgemenssoftball.netlify.app/department/facilities/</loc>
 		<lastmod>2025-07-19T15:43:33+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/department/finance/</loc>
+		<loc>https://northbridgemenssoftball.netlify.app/department/finance/</loc>
 		<lastmod>2025-07-19T15:43:33+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/department/food-services/</loc>
+		<loc>https://northbridgemenssoftball.netlify.app/department/food-services/</loc>
 		<lastmod>2025-07-19T15:43:33+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/department/health-services/</loc>
+		<loc>https://northbridgemenssoftball.netlify.app/department/health-services/</loc>
 		<lastmod>2025-07-19T15:43:33+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/department/hr/</loc>
+		<loc>https://northbridgemenssoftball.netlify.app/department/hr/</loc>
 		<lastmod>2025-07-19T15:43:33+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/department/operations/</loc>
+		<loc>https://northbridgemenssoftball.netlify.app/department/operations/</loc>
 		<lastmod>2025-07-19T15:43:33+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/department/planning/</loc>
+		<loc>https://northbridgemenssoftball.netlify.app/department/planning/</loc>
 		<lastmod>2025-07-19T15:43:33+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/department/procurement/</loc>
+		<loc>https://northbridgemenssoftball.netlify.app/department/procurement/</loc>
 		<lastmod>2025-07-19T15:43:33+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/department/public-relations/</loc>
+		<loc>https://northbridgemenssoftball.netlify.app/department/public-relations/</loc>
 		<lastmod>2025-07-19T15:43:33+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/department/student-affairs/</loc>
+		<loc>https://northbridgemenssoftball.netlify.app/department/student-affairs/</loc>
 		<lastmod>2025-07-19T15:43:33+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/department/student-records/</loc>
+		<loc>https://northbridgemenssoftball.netlify.app/department/student-records/</loc>
 		<lastmod>2025-07-19T15:43:33+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/department/technology/</loc>
+		<loc>https://northbridgemenssoftball.netlify.app/department/technology/</loc>
 		<lastmod>2025-07-19T15:43:33+00:00</lastmod>
 	</url>
 </urlset>
